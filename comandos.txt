@@ -1,0 +1,28 @@
+514  git init
+  515  20230605-EstebanDavygit remote add origin https://github.com/EDavyt/20230605-EstebanDavyt.gitgit remote add origin https://github.com/EDavyt/20230605-EstebanDavyt.git
+  516  git remote add origin https://github.com/EDavyt/20230605-EstebanDavyt.git
+  517  touch comandos.txt main.js index.html
+  518  add .
+  519  git add .
+  520  git commit -m "01 de Esteban Davyt"
+  521  git push -u origin main
+  522  git checkout -b feature
+  523  git branch
+  524  mkdir Hardware Software SeguridadInformatica
+  525  cd Hardware
+  526  touch resumen.txt
+  527  cd ..
+  528  cd SeguridadInformatica
+  529  touch resumen.txt
+  530  cd ..
+  531  cd Software
+  532  touch resumen.txt
+  533  cd ..
+  534  git add .
+  535  git commit -m "02 de Esteban Davyt"
+  536  git push git push origin feature
+  537  git push origin feature
+  538  git checkout main
+  539  git mv main.js resumenHardware.txt
+  540  git mv index.html resumenSoftware.txt
+  541  history > comandos.txt
